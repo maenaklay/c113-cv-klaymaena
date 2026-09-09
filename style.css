@@ -1,0 +1,20 @@
+body {
+    background-color:floralwhite;
+    border:5px dotted sandybrown;
+    color: maroon;
+}
+
+h1 {
+    color:deeppink;
+}
+h2 {
+    color:brown;
+}
+
+.tutu {
+    color:deeppink;
+}
+
+#intro{
+    color:deepskyblue;
+}
