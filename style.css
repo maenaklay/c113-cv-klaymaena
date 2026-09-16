@@ -8,6 +8,7 @@ tandis que "#" = un ID donc une partie unique!*/
 h1 {
     color:deeppink;
     background-color:wheat;
+    text-align:center;
 }
 h2 {
     color:brown;
